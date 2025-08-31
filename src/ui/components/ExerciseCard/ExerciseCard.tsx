@@ -48,7 +48,7 @@ export const ExerciseCard = ({
         </div>
       )}
 
-      <div className='p-8'>
+      <div className='p-6 md:p-8'>
         {/* Exercise Header */}
         <div className='mb-6 flex items-start justify-between'>
           <div className='flex-1'>

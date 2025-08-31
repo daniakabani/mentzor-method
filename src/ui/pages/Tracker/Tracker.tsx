@@ -120,8 +120,8 @@ export const Tracker = () => {
       </section>
 
       {/* Main Tracker Interface */}
-      <div className='mx-auto max-w-4xl px-6 pb-24'>
-        <div className='rounded-3xl border border-gray-700/50 bg-gradient-to-br from-gray-900/50 to-gray-800/30 p-8 md:p-12'>
+      <div className='mx-auto max-w-4xl px-6 pb-24 mt-8'>
+        <div className='rounded-3xl border border-gray-700/50 bg-gradient-to-br from-gray-900/50 to-gray-800/30 p-6 md:p-12'>
           {/* Muscle Group Selection */}
           <div className='mb-12'>
             <label className='mb-4 block text-lg font-semibold text-white'>
