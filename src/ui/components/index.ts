@@ -1,0 +1,5 @@
+export * from './ExerciseCard/ExerciseCard'
+export * from './NavBar/NavBar'
+export * from './Footer/Footer'
+export * from './StructuredData/StructuredData'
+export * from './CookieBanner/CookieBanner'
